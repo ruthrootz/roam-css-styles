@@ -135,7 +135,7 @@ how-to: create a file named "roam/css" and paste "@import url('https://ruthrootz
     --datepicker-day-wrapper: #36393c;
     --datepicker-altfont-color: #545d63;
 
-    --search-font-color: var(--theme-gray-1);
+    --search-font-color: #DC38DD;
     --search-body-font-color: #070A0D;
     --search-outline: #1e6897;
     --search-bg: var(--theme-white-1);
